@@ -1,3 +1,17 @@
+#NeuralTalkAnimator
+
+The NeuralTalkAnimator is a python helper, that creates captioned videos with [NeuralTalk](https://github.com/karpathy/neuraltalk). It takes a folder with videos and returns a folder with captuned videos back. 
+
+##Instruction
+1) Put Your Videos in the the `videos` folder
+2) `python extract.py --captionfrequency 30`
+3) Wait for processing
+3) Get videos with generated at `videos/processed`
+
+
+![captions](https://i.imgur.com/ZCk50hQ.jpg)
+
+
 #NeuralTalk
 
 This project contains *Python+numpy* source code for learning **Multimodal Recurrent Neural Networks** that describe images with sentences.
