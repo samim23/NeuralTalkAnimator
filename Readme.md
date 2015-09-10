@@ -5,7 +5,7 @@ It takes a folder with videos and returns a folder with captuned videos back.
 
 ##Instruction
 1) Download [VGG_ILSVRC_16_layers.caffemodel](http://www.robots.ox.ac.uk/~vgg/software/very_deep/caffe/VGG_ILSVRC_16_layers.caffemodel) and place it in the `python_features` folder  
-2) Download [coco_cnn_lstm_v2.p](https://cs.stanford.edu/people/karpathy/neuraltalk/) and place it in the `cv` folder  
+2) Download [coco_cnn_lstm_v2.p](https://cs.stanford.edu/people/karpathy/neuraltalk/coco_cnn_lstm_v2.zip) and place it in the `cv` folder  
 3) Put Your Videos in the the `videos` folder   
 4) `python extract.py --captionfrequency 30`   
 5) Get videos with generated at `videos/processed`   
