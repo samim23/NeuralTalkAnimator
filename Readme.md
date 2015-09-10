@@ -10,13 +10,11 @@ It takes a folder with videos and returns a folder with captuned videos back.
 4) `python extract.py --captionfrequency 30`   
 5) Get videos with generated at `videos/processed`   
 
-
-![captions](https://i.imgur.com/ZCk50hQ.jpg)  
-
 ##Requirements
 - PIL   
-- FFMPEG    
+- FFMPEG  
 
+![captions](https://i.imgur.com/3FJHDvm.jpg)  
 ![captions](https://i.imgur.com/FH4aTUt.jpg)  
 
 
